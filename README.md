@@ -1,5 +1,5 @@
 # Amadeu @jovem_amadeu
-My profile and my social midias:
+My profile and my socials:
   - amadeuvdf@gmail.com
   - [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/jovem_amadeu)
   - [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/jovem_amadeu/)
